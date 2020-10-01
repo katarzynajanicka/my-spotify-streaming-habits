@@ -27,11 +27,11 @@ The input data consists of two json files:
 The output data:
 - my-spotify-streaming-habits.ipynb (Jupyter Notebook)
 
-## Screenshots
-
-Project flow:
+## Project flow:
 
 ![](./documentation/contents.png)
+
+## Screenshots
 
 Full streams:
 
@@ -53,7 +53,7 @@ Top artists:
 
 ![](./documentation/top3_songs_per_month.png)
 
-Key takeaways:
+## Key takeaways:
 
 ![](./documentation/takeaways.png)
 
