@@ -45,9 +45,11 @@ Top artists:
 
 ![](./documentation/top10_artists.png)
 
+Top 3 artists per month:
+
 ![](./documentation/top3_artists_per_month.png)
 
-Top songs:
+Top 3 songs per month:
 
 ![](./documentation/top3_songs_per_month.png)
 
