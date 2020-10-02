@@ -1,7 +1,7 @@
 # my-spotify-streaming-habits
 An exploratory data analysis of my Spotify streaming habits
 
-https://img.shields.io/badge/python-v.3.8.5.-brightgreen
+<img src="https://img.shields.io/badge/python-v.3.8.5.-brightgreen">
 
  ## Table of contents
 * [General info](#general-info)
