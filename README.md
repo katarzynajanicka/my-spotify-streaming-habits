@@ -2,7 +2,8 @@
 An exploratory data analysis of my Spotify streaming habits
 
 <img src="https://img.shields.io/badge/python-v.3.8.5 -brightgreen"> <img src='https://img.shields.io/badge/pandas-v.1.1.1-blue'> <img src='https://img.shields.io/badge/numpy-v.1.19.1-blue'> <img src="https://img.shields.io/badge/matplotlib-v.3.3.1 -blue"> <img src="https://img.shields.io/badge/seaborn-v.0.10.1 -blue"> <br>
-<img src="https://img.shields.io/badge/exploratory data analysis -orange">
+<img src="https://img.shields.io/badge/exploratory data analysis -lightgrey"> <img src="https://img.shields.io/badge/data visualization -lightgrey">
+
 
  ## Table of contents
 * [General info](#general-info)
