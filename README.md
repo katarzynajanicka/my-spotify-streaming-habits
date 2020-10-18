@@ -7,6 +7,9 @@ An exploratory data analysis of my Spotify streaming habits
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Project flow](#projectflow)
+* [Screenshots](#screenshots)
+* [Key takeaways](#keytakeaways)
 * [Status](#status)
 
 ## General info
