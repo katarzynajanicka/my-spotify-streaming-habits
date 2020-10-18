@@ -7,9 +7,9 @@ An exploratory data analysis of my Spotify streaming habits
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Project flow](#project flow)
+* [Structure](#structure)
 * [Screenshots](#screenshots)
-* [Key takeaways](#key takeaways)
+* [Conclusions](#conclusions)
 * [Status](#status)
 
 ## General info
@@ -32,7 +32,7 @@ The input data consists of two json files:
 The output data:
 - my-spotify-streaming-habits.ipynb (Jupyter Notebook)
 
-## Project flow
+## Structure
 
 ![](./documentation/contents.png)
 
@@ -58,7 +58,7 @@ Top artists:
 
 ![](./documentation/top3_songs_per_month.png)
 
-## Key takeaways
+## Conclusions
 
 ![](./documentation/takeaways.png)
 
